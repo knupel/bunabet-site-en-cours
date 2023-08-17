@@ -1,7 +1,7 @@
 ---
 menu: "home"
 title: "BUNA BET"
-subtitle: "Shop and Coffee-Shop"
+subtitle: "SHOP and COFEE-SHOP"
 categorie: "home"
 message: "Welcome home to drink a good coffee. And if drink a good coffee is good for you. It's good for us"
 misc: "println(”Order a coffee NOW”);"
