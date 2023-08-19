@@ -13,6 +13,7 @@ export function useNode(data : any, lang: string | null) {
   if(lang === null) {
     lang = "en";
   }
+  console.log("lang", lang);
   let buf_node = data.allMarkdownRemark.edges[0].node;
   const [node, set_node] = useState(buf_node);
 

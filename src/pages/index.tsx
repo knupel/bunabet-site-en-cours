@@ -31,7 +31,6 @@ const IndexPage: FC<PageProps> = () => {
   return (
     <Layout>
       <RenderHome/>
-      <RenderAbout/>
     </Layout>
   )
 }

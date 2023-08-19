@@ -1,13 +1,13 @@
 /**
- *  h_c for
- * header components
- * like in C / C++
+ *  "hc" for "header components" like in C / C++
  * 2023-2023
- * v 0.0.3
+ * v 0.0.4
  * 
  * 
  * */
+export { Form, FormNetlify } from './form.tsx';
 export { Layout } from './struct/layout';
 export { MarkdownHtml } from './markdown_html.tsx';
-export { ButtonCodeNav, NavCell, NavCellBox, GoHome, DropdowRegions } from './gui.tsx';
+export { ButtonCodeNav, NavCell, NavCellBox, NavCellBoxImg, DropdowRegions } from './gui.tsx';
 export { Box } from "./design";
+export { SeoTitle } from "./seo.tsx";

@@ -36,7 +36,46 @@ const config: GatsbyConfig = {
         },
       },
     },
-    // FILE
+    // IMAGE
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        defaults: {
+          formats: [`auto`, `webp`],
+          placeholder: `dominantColor`,
+          quality: 50,
+          breakpoints: [750, 1080, 1366, 1920],
+          backgroundColor: `transparent`,
+          tracedSVGOptions: {},
+          blurredOptions: {},
+          jpgOptions: {},
+          pngOptions: {},
+          webpOptions: {},
+          avifOptions: {},
+        }
+      }
+    },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-image`,
+    // FILE GUI
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "gui",
+        path: `${__dirname}/medias/gui/`,
+        // Use "mtime" and "inode" to fingerprint files (to check if file has changed)
+        fastHash: true,
+      }
+    },
+    // FILE FONT
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "fonts",
+        path: `${__dirname}/fonts/`
+      }
+    },
+    // FILE MD
     {
       resolve: `gatsby-source-filesystem`,
       options: {

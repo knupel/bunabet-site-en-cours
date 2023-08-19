@@ -22,6 +22,11 @@ interface Props {
   // data? : any;
 }
 
+const style_logo = {
+  fontFamily: get_css_value("--font_logo"),
+  marginTop: 24,
+  maxWidth: 600,
+}
 
 const style_titles = {
   fontFamily: get_css_value("--font_title"),
@@ -29,7 +34,7 @@ const style_titles = {
   maxWidth: 600,
 }
 const style_subtitles = {
-  color: "magenta",
+  color: get_css_value("--font_title"),
   marginTop: -24,
   marginLeft: 128,
   marginBottom: 42,
@@ -68,7 +73,8 @@ export const RenderHome: FC<Props> =() => {
       <h2 style={style_subtitles}>{info.subtitle}</h2>
       <h3 style={question_styles}>{info.message}</h3>
       <p>
-        <ButtonCodeNav what={info.misc} to="/contact"/>
+        {/* <ButtonCodeNav what={info.misc} to="/contact"/> */}
+        <ButtonCodeNav what={info.misc} href="https://cafe-366.myshopify.com/"/>
       </p>
   </>
 }

@@ -7,9 +7,9 @@
 // REACT
 import React, { FC } from "react";
 // GATSBY
-import { graphql } from "gatsby";
+import { HeadFC, graphql } from "gatsby";
 // APP
-import { Layout } from "../components/hc";
+import { Layout, SeoTitle } from "../components/hc";
 import { RenderPage } from "../render/hr";
 
 /*
@@ -28,7 +28,7 @@ export const Legal: FC<Props> = ({data}) => {
 
 export default Legal;
 
-// export const Head: FC<Props> = ({data}) => <title>{data.allMarkdownRemark.edges[0].node.frontmatter.categorie}</title>
+export const Head: HeadFC = ({data}) => <SeoTitle title={data.allMarkdownRemark.edges[0].node.frontmatter.title}/>
 
 export const myQuery = graphql`
   query {
@@ -37,9 +37,9 @@ export const myQuery = graphql`
         node {
           frontmatter {
             categorie
-            title
             menu
             lang
+            title
           }
           html
         }

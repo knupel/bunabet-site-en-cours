@@ -1,10 +1,10 @@
 ---
 menu: "home"
 title: "BUNA BET"
-subtitle: "Boutique et et Maison de Café"
+subtitle: "Maison de café et boutique"
 categorie: "home"
-message: "Si vous êtes venu jusqu'à notre buna bet et que vous avez aimé le café et que vous l'avez trouvez bon. Alors c'est bon pour vous et si c'est bon pour vous, c'est bon pour nous."
-misc: "println(”Que j'aime ta couleur café”);"
+message: "Ouverture début septembre 2023 | 102, rue de Meaux Paris 19 | Métro Laumière"
+misc: "La maison est ouverte tous les jours de 9h à 19h sauf le dimanche"
 lang: "fr"
 ---
 # Lorem Ipsum
