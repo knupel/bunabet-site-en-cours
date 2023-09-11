@@ -11,3 +11,4 @@ export { MarkdownHtml } from './markdown_html.tsx';
 export { ButtonCodeNav, NavCell, NavCellBox, NavCellBoxImg, DropdowRegions } from './gui.tsx';
 export { Box } from "./design";
 export { SeoTitle } from "./seo.tsx";
+export { LogoBunabet } from "./logo.tsx";

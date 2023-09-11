@@ -61,6 +61,16 @@ const config: GatsbyConfig = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
+        name: "images",
+        path: `${__dirname}/medias/visuel`,
+        ignore: [`**/\.*`], // ignore files starting with a dot
+      }
+    },
+
+    // FILE GUI
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
         name: "gui",
         path: `${__dirname}/medias/gui/`,
         // Use "mtime" and "inode" to fingerprint files (to check if file has changed)

@@ -13,6 +13,7 @@ import { get_css_value } from "../../utils/tools";
 import './layout.css';
 
 interface Props {
+  menu_is?: boolean;
   children? : React.ReactNode;
 }
 const style_content_box = {
@@ -29,9 +30,11 @@ const style_content_cell = {
   maxWidth: get_css_value("--width_content_max"),
 }
 
-export const Layout: FC<Props> = ({children}) => {
+export const Layout: FC<Props> = ({menu_is, children}) => {
+  console.log("menu_is", menu_is);
   return (<>
-    <Header/>
+    {(menu_is === undefined || menu_is === true) && <Header/>}
+    {/* {(menu_is === undefined || menu_is === true) ? <Header/> : null} */}
     <div style={style_content_box}>
       <div style={style_content_cell}>
         {children}
