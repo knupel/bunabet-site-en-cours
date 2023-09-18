@@ -3,25 +3,29 @@ menu: "opening"
 title: "BUNA BET"
 subtitle: "Maison de café et boutique"
 categorie: "opening"
-message: "Shop 102, de Meaux Street – Paris 19 – Station Laumière"
-misc: ""
+message: ""
+misc: "Order your coffee pack online"
 lang: "en"
 ---
-# Openning hours
+# ARTISAN ROASTING LOCAL FARMER COFFEES
 
-Monday close
+## Store and Coffee-Shop – 102, de Meaux Street – Paris 19 – Station Laumière
 
-Tuesday 9h30 am – 7h pm
+### Openning hours
 
-Wednesday 9h30 am – 7h pm
+Monday Oops it's closed
 
-Thursday 9h30 am – 7h pm
+Tuesday 9:25 am – 7:35 pm
 
-Friday 9h30 am – 7h pm
+Wednesday 9:27 am – 7:33 pm
 
-Saturday 9h30 am – 7h pm
+Thursday 9:29 am – 7:31 pm
 
-Sunday 10am – 12h30 am
+Friday 9:31 am – 7:29 pm
 
-Public holiday close
+Samedi 9:33 am – 7:27 pm
+
+Sunday 9:35 am – 12h:59 pm
+
+Public holiday Arg it's still closed !
 

@@ -15,9 +15,7 @@ import { useStaticQuery, graphql } from "gatsby";
 import { useNode } from "../utils/hu.tsx";
 import { RegionContext } from "../context.tsx";
 import { get_css_value } from "../utils/hu.tsx";
-// import { ButtonCodeNav } from "../components/hc.tsx";
-// import { LogoBunabet } from "../components/hc.tsx";
-import { MarkdownHtml, LogoBunabet, NavCellBox } from "../components/hc.tsx";
+import { MarkdownHtml, LogoBunabet, NavCellBox, ButtonNav } from "../components/hc.tsx";
 
 // need to define properly the any... it's very too much and very lazy !
 interface Props {
@@ -54,9 +52,6 @@ export const RenderOpening: FC<Props> =() => {
           edges {
             node {
               frontmatter {
-                title
-                subtitle
-                message
                 misc
                 lang
               }
@@ -68,16 +63,16 @@ export const RenderOpening: FC<Props> =() => {
     `
   )
   const { lang } = useContext(RegionContext);
+  console.log("lang", lang);
   const {frontmatter, html} = useNode(data, lang);
   const info = frontmatter;
 
   return <>
       <LogoBunabet style={{paddingTop: '1em'}}/>
-      <h2 style={question_styles}>{info.message}</h2>
       <MarkdownHtml html={html} />
       <p>
-        {/* <ButtonCodeNav what={info.misc} to="/contact"/> */}
-        <NavCellBox href="https://cafe-366.myshopify.com/">{info.misc}</NavCellBox>
+        <ButtonNav what={info.misc} href="https://cafe-366.myshopify.com"/>
+        {/* <NavCellBox href="https://cafe-366.myshopify.com/">{info.misc}</NavCellBox> */}
       </p>
   </>
 }

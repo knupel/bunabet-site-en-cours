@@ -3,25 +3,29 @@ menu: "opening"
 title: "BUNA BET"
 subtitle: "Maison de café et boutique"
 categorie: "opening"
-message: "Boutique au 102, rue de Meaux – Paris 19 – Métro Laumière"
-misc: "Commander votre café en ligne"
+message: ""
+misc: "Commander vos paquets de café en ligne"
 lang: "fr"
 ---
-# Horaire d'ouverture
+# TORRÉFACTION ARTISANALE CAFÉS DE TERROIR
 
-Lundi fermé
+## Boutique et Coffee-Shop – 102, rue de Meaux – Paris 19 – Métro Laumière
 
-Mardi 9h30 – 19h
+### Horaire d'ouverture
 
-Mercredi 9h30 – 19h
+Lundi zut c’est fermé
 
-Jeudi 9h30 – 19h
+Mardi 9h25 – 19h3
 
-Vendredi 9h30 – 19h
+Mercredi 9h27 – 19h33
 
-Samedi 9h30 – 19h
+Jeudi 9h29 – 19h31
 
-Dimanche 10h – 12h30
+Vendredi 9h31 – 19h29
 
-Jours fériés fermé
+Samedi 9h33 – 19h27
+
+Dimanche 9h35 – 12h59
+
+Jours fériés flûte c’est encore fermé
 

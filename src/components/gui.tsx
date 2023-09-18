@@ -35,6 +35,32 @@ interface ButtonProps {
 // NAVIGATION
 ////////////////////////
 
+// ButtonNav
+////////////////
+// in progress
+///////////////
+export const ButtonNav : FC<ButtonProps> = ({what, to, href}) => {
+  let button_style = {
+    color: get_css_value("--color_text_light"),
+    padding: 4,
+    background: get_css_value("--color_button"),
+    borderRadius: 4,
+    fontSize: "1.5rem",
+    cursor: "pointer",
+    fontFamily: get_css_value("--font_title"),
+    letterSpacing: "0.05em",
+    fontVariantCaps: "all-petite-caps",
+    textDecoration: 'none',
+    width: "max-content",
+  }
+
+  return (
+    <NavCell to={to} href={href} style={button_style}>
+        {what}
+    </NavCell>
+  )
+}
+
 
 // ButtonCodeNav
 ////////////////
@@ -48,6 +74,11 @@ export const ButtonCodeNav : FC<ButtonProps> = ({what, to, href}) => {
     fontSize: "1.25rem",
     borderRadius: 4,
     cursor: "pointer",
+    fontFamily: get_css_value("--font_title"),
+    letterSpacing: "0.05em",
+    fontVariantCaps: "all-petite-caps",
+    textDecoration: 'none',
+    width: "max-content",
   }
 
   const [is, set_is] = useState(false);
@@ -92,7 +123,7 @@ export const NavCell: FC<NavProps> = ({to, href, className, style, children}) =>
 	}
   if(href !== undefined) {
     return <div className={className} style={style}>
-      <a href="https://cafe-366.myshopify.com/" target="_blank" rel="noopener noreferrer">{children}</a>  
+      <a href={href} target="_blank" rel="noopener noreferrer" style={style}>{children}</a>  
       </div>
   } else 
 	return <div className={className} style={style} onClick={mouse_click}>{children}</div>

@@ -19,6 +19,8 @@ const Contact: FC<PageProps> = () => {
     width: "100px",
     height: "42px",
     fontFamily: get_css_value("--font_title"),
+    letterSpacing: "0.05em",
+    fontVariantCaps: "all-petite-caps",
     fontWeight: 700,
     fontSize: 18,
     color: get_css_value("--color_text_light"),
@@ -27,11 +29,14 @@ const Contact: FC<PageProps> = () => {
 
   const style_box = {
     padding:"0.5em",
+    
   }
 
   const style_form = {
     display: "flex",
-    flexDirection: "column"
+    flexDirection: "column",
+    background: get_css_value("--color_button"),
+    
   }
   return (
     <Layout>
@@ -44,4 +49,4 @@ const Contact: FC<PageProps> = () => {
 
 export default Contact;
 
-export const Head: HeadFC = () => <title>Olombelona Software</title>
+export const Head: HeadFC = () => <title>Buna bet</title>
