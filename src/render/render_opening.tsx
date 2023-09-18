@@ -72,7 +72,6 @@ export const RenderOpening: FC<Props> =() => {
       <MarkdownHtml html={html} />
       <p>
         <ButtonNav what={info.misc} href="https://cafe-366.myshopify.com"/>
-        {/* <NavCellBox href="https://cafe-366.myshopify.com/">{info.misc}</NavCellBox> */}
       </p>
   </>
 }

@@ -7,7 +7,7 @@ message: ""
 misc: ""
 lang: "fr"
 ---
-## Pourquoi Bunabet ?
+## Pourquoi Buna Bet ?
 En Éthiopie, berceau du café, buna bet est la maison où l’on se retrouve pour déguster un café.
 
 ## Pourquoi Café 366 ?

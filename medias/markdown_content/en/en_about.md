@@ -7,7 +7,7 @@ message: ""
 misc: ""
 lang: "en"
 ---
-## Why Bunabet?
+## Why Buna Bet?
 In Ethiopia, the cradle of coffee, buna bet is the house where people gather to enjoy a cup of coffee.
 
 ## Why Café 366?

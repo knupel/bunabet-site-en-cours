@@ -7,7 +7,7 @@ message: ""
 misc: "Commander vos paquets de café en ligne"
 lang: "fr"
 ---
-# TORRÉFACTION ARTISANALE CAFÉS DE TERROIR
+# TORRÉFACTION ARTISANALE DE CAFÉS DE TERROIR
 
 ## Boutique et Coffee-Shop – 102, rue de Meaux – Paris 19 – Métro Laumière
 
@@ -15,7 +15,7 @@ lang: "fr"
 
 Lundi zut c’est fermé
 
-Mardi 9h25 – 19h3
+Mardi 9h25 – 19h35
 
 Mercredi 9h27 – 19h33
 
