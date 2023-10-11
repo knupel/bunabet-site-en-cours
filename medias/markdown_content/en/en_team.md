@@ -1,4 +1,4 @@
----
+		
 menu: "team"
 title: "Meet Our Team"
 subtitle: ""
@@ -13,13 +13,11 @@ We're proud to introduce our team, which brings together two enthusiasts who cam
 
 ## Laetitia Natali [ Boss & coffee roaster ]
 
-Long before his coffee world tour, it was pixel-perfect graphic production. Then there was the famous journey that led to the germination of a seed, or rather a coffee bean that grew for years next to a roaster. With him, she sweated water to always produce the best beans with the most beautiful aromatic profile to sell to professional customers, but also to individuals at the Pré Saint-Gervais market. Today, this bean, which has become a fine cafeier over time, has given 102 rue de Meaux a new flower by opening its first boutique, your Buna Bet.
-PS: Perhaps you know how to translate "new flower" in Ethiopian?
+In 2015, a few years after her world coffee tour in 2007-2008, Laetitia gave up her career in graphics production to take up coffee roasting. Naturally, she named her brand 'Café 366', for the 366 days of this marvellous journey, and her company Buna Bet, which means 'house where coffee is drunk' in Amharic (the language of Ethiopia, the birthplace of coffee).
+This world tour led her to discover some of the great coffee-producing countries, including Ethiopia, Yemen, Colombia, Guatemala, Kenya, Indonesia... There she met all the precious people who grow this magical little bean. It was only natural that when she launched her artisan roasting business in 2015, and then opened her boutique in 2023, she should pay tribute to them by roasting with great care and sharing with you the local coffees of all these countries, produced by passionate people.
 
-Translated with www.DeepL.com/Translator (free version)
+## Stanislas Marçais [ henchman ]
 
-## Stanislas Marçais [ Good fellas ]
+He is the companion of the new flower of the rue de Meaux, the man with whom she has travelled the world of coffee for 366 days. He's her graphic designer, her artist, her stage manager, her coder and now her Baristan!
 
-He's the companion of the new flower of rue de Meaux, the man with whom she's traveled the coffee world for 366 days. He's her graphic designer, her artist, her stage manager, her coder and now her Baristan!
-
-Together, they form a dynamic, helpful team ready to serve you the best coffees.
+Together, they form a dynamic and helpful duo ready to serve you the best coffees.
