@@ -21,7 +21,7 @@ Ce tour du monde lui avait fit découvrir certains des grands pays du café comm
 
 C'est le compagnon de la nouvelle fleur de la rue de Meaux, l'homme avec lequel elle a parcouru le monde du café pendant 366 jours. C'est son graphiste, son artiste, son régisseur, son codeur et maintenant son Baristan !
 
-Ensemble, ils forment un duo dynamique et serviable prète à vous servir les meilleurs cafés.
+Ensemble, ils forment un duo dynamique et serviable prèt à vous servir les meilleurs cafés.
 
 
 
