@@ -11,13 +11,15 @@ lang: "fr"
 En Éthiopie, berceau du café, buna bet est la maison où l’on se retrouve pour déguster un café.
 
 ## Pourquoi Café 366 ?
-Et bien parce-que nous avons entrepris un long voyage de 366 jours autour du monde du café.
+Car il y a quelques années, Leatitia et Stanislas ont entrepris un long voyage autour du monde du café. Et ce voyage dura 366 jours.
 
 ## BOUTIQUE
 Cafés en grains et moulus
-Accessoires café Petite épicerie fine
+Accessoires café : filtre, machine, moulin...
+Petite épicerie fine, miel, caramel, Komboucha, limonades
 
 ## COFFEE-SHOP
-Dégustation sur place et à emporter
+Dégustation sur place et à emporter de café et de pâtisserie de chez Jojo and Co et aussi les bons croissants de chez Bulle.
+Et aussi les boissons de notre boutique.
 
 

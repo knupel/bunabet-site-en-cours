@@ -11,21 +11,21 @@ lang: "fr"
 
 ## Boutique et Coffee-Shop – 102, rue de Meaux – Paris 19 – Métro Laumière
 
-### Horaire d'ouverture
+### Horaires d'ouverture
 
 Lundi zut c’est fermé
 
-Mardi 9h25 – 19h35
+Mardi 8h30 – 19h00
 
-Mercredi 9h27 – 19h33
+Mercredi 8h30 – 19h00
 
-Jeudi 9h29 – 19h31
+Jeudi 8h30 – 19h00
 
-Vendredi 9h31 – 19h29
+Vendredi 8h30 – 19h30
 
-Samedi 9h33 – 19h27
+Samedi 9h00 – 19h00
 
-Dimanche 9h35 – 12h59
+Dimanche 9h00 – 13h00
 
 Jours fériés flûte c’est encore fermé
 
