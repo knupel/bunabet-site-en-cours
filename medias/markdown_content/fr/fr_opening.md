@@ -21,7 +21,7 @@ Mercredi 8h30 – 19h00
 
 Jeudi 8h30 – 19h00
 
-Vendredi 8h30 – 19h30
+Vendredi 8h30 – 19h00
 
 Samedi 9h00 – 19h00
 
