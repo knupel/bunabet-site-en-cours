@@ -31,9 +31,42 @@ interface ButtonProps {
   href?: string;
 }
 
+interface ButtonPictoProps extends  ButtonProps{
+  src: string;
+}
+
 //////////////////////////
 // NAVIGATION
 ////////////////////////
+
+
+
+// BUttonPictoNav
+/////////////////
+
+export const ButtonPictoNav : FC<ButtonPictoProps> = ({ src, what, href }) => {
+  let picto_container = {
+    width: "30px",
+    height: "40px",
+  }
+
+  let picto = {
+    width: "25px",
+    /* margin: auto; */
+    transform: "translate(12%, 25%)",
+  }
+
+  return (
+    <div style={picto_container}>
+      <div style={picto}>
+        <a href={href} target="_blank">
+          <img src={src} alt={what} />
+        </a>
+      </div>
+    </div>
+  );
+}
+
 
 // ButtonNav
 ////////////////

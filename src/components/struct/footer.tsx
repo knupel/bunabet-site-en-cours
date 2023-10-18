@@ -1,7 +1,7 @@
 /**
  * Layout
  * 2023-2023
- * v 0.0.2
+ * v 0.0.3
  * 
  * */
 // REACT
@@ -11,6 +11,10 @@ import { useStaticQuery, graphql } from "gatsby";
 // APP
 import { Legal, InfoFooter } from "../menu/menu_footer";
 import { get_css_value } from "../../utils/tools";
+import { ButtonPictoNav } from "../hc";
+// MEDIA
+// import picto_instagram from 
+import picto_instagram from "../../../medias/picto/instagram_jaune.svg";
 
 
 const style_footer = {
@@ -49,6 +53,13 @@ export function Footer() {
 	const year = new Date().getFullYear();
 	return <div className="footer" style={style_footer}>
 		<InfoFooter style={style_cell}>{data.site.siteMetadata.title} {year}</InfoFooter>
+
+		<InfoFooter style={style_cell}>|</InfoFooter>
+		<ButtonPictoNav
+			src={picto_instagram}
+			what="instagram"
+			href="https://www.instagram.com/cafe366/"
+    />
 		<InfoFooter style={style_cell}>|</InfoFooter>
 		<Legal/>
 	</div>
