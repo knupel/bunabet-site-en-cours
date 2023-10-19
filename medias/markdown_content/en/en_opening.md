@@ -1,16 +1,12 @@
 ---
 menu: "opening"
 title: "BUNA BET"
-subtitle: "Maison de café et boutique"
+subtitle: "Coffee house & Shop"
 categorie: "opening"
 message: ""
-misc: "Order your coffee pack online"
+misc: ""
 lang: "en"
 ---
-# ARTISANAL ROASTING OF SPECIALTY COFFEES
-
-## Coffee-Shop and store  – 102, de Meaux Street – 75019 Paris – Laumière  metro station
-
 ### Openning hours
 
 Monday closed
@@ -28,5 +24,4 @@ Samedi 9 am – 7 pm
 Sunday 9 am – 1 pm
 
 Public holidays open depending on affinity...
-
 

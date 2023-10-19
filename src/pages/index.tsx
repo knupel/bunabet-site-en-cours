@@ -23,7 +23,7 @@ import React, { FC } from "react";
 // GATSBY
 import type { HeadFC, PageProps } from "gatsby";
 // APP
-import { RenderOpening, RenderHome, RenderAbout } from "../render/hr.tsx";
+import { RenderOpening, RenderIntro, RenderHome, RenderTemp } from "../render/hr.tsx";
 import { Layout } from "../components/hc.tsx";
 
 
@@ -31,7 +31,9 @@ const IndexPage: FC<PageProps> = () => {
   return (
     <Layout menu_is={false}>
       {/* <RenderHome/> */}
-      <RenderOpening/>
+      {/* <RenderIntro/>
+      <RenderOpening/> */}
+      <RenderTemp/>
     </Layout>
   )
 }

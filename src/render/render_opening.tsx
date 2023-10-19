@@ -63,15 +63,9 @@ export const RenderOpening: FC<Props> =() => {
     `
   )
   const { lang } = useContext(RegionContext);
-  console.log("lang", lang);
-  const {frontmatter, html} = useNode(data, lang);
-  const info = frontmatter;
+  const { html} = useNode(data, lang);
 
   return <>
-      <LogoBunabet style={{paddingTop: '1em'}}/>
-      <MarkdownHtml html={html} />
-      <p>
-        <ButtonNav what={info.misc} href="https://cafe-366.myshopify.com"/>
-      </p>
+    <MarkdownHtml html={html} />
   </>
 }

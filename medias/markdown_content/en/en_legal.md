@@ -10,7 +10,11 @@ Roasting Workshop : Café 366 in the collaborative workshop The Beans on Fire - 
 
 Head office:
 SASU Buna Bet - 17, rue Roger Salengro - 93310 Le Pré Saint-Gervais
+
 RCS : Bobigny B 814 710 554
+
 Siret : 81471055400019
 
 Provider: Netlify & Github
+
+Design: <a href="https://www.knupel.art/" target="_blank">Stanislas Marçais aka Knupel</a>

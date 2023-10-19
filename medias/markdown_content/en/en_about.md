@@ -15,7 +15,8 @@ Well, because we're on a 366-day journey around the world tour of coffee.
 
 ## SHOP
 Coffee beans and ground coffee
-Coffee accessories Small delicatessen
+Coffee accessories: filter, machine, grinder...
+Small delicatessen: cascacara, honey, caramel...
 
 ## COFFEE-SHOP
 On-site and takeaway tasting
