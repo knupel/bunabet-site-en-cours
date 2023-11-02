@@ -10,8 +10,6 @@ lang: "en"
 
 ### Extraordinary opening times!
 
-1st November: 9am-7pm
-
 11 November: 9am-7pm
 
 ### Openning hours

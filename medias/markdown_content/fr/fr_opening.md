@@ -9,8 +9,6 @@ lang: "fr"
 ---
 ### Horaires hors du commun !!!
 
-1er Novembre : 9h-19h
-
 11 Novembre : 9h-19h
 
 ### Horaires d'ouverture classique
