@@ -7,6 +7,11 @@ message: ""
 misc: ""
 lang: "en"
 ---
+
+### Extraordinary opening times!
+
+11 November: 9am-7pm
+
 ### Openning hours
 
 Monday closed

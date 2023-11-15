@@ -7,6 +7,10 @@ message: ""
 misc: ""
 lang: "fr"
 ---
+### Horaires hors du commun !!!
+
+11 Novembre : 9h-19h
+
 ### Horaires d'ouverture classique
 
 Lundi fermé
