@@ -25,5 +25,3 @@ Dimanche 9h – 13h
 
 Jours fériés ouvert selon affinité...
 
-
-
