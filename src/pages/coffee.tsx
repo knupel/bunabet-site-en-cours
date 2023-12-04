@@ -7,29 +7,32 @@
 // REACT
 import React, { FC } from "react";
 // GATSBY
-import type { HeadFC, PageProps } from "gatsby";
-import { graphql } from "gatsby";
+import type { HeadFC, PageProps } from "gatsby"
+import { graphql } from "gatsby"
 // APP
-import { RenderHome } from "../render/hr.tsx";
+import { RenderCoffee } from "../render/hr.tsx";
 import { Layout, SeoTitle } from "../components/hc.tsx";
-import { info } from "console";
 
 
-const Home: FC<PageProps> = () => {
+interface Props {
+  data: any;
+}
+
+const About: FC<PageProps> = ({data}) => {
   return (
     <Layout>
-      <RenderHome/>
+      <RenderCoffee/>
     </Layout>
   )
 }
 
-export default Home;
+export default About;
 
 export const Head: HeadFC = ({data}) => <SeoTitle title={data.allMarkdownRemark.edges[0].node.frontmatter.title}/>
 
 export const myQuery = graphql`
   query {
-    allMarkdownRemark(filter: {frontmatter: {categorie: {eq: "home"}}}) {
+    allMarkdownRemark(filter: {frontmatter: {categorie: {eq: "coffee"}}}) {
       edges {
         node {
           frontmatter {

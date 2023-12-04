@@ -86,6 +86,7 @@ const config: GatsbyConfig = {
       }
     },
     // FILE MD
+    // FILE MD PAGE
     {
       resolve: `gatsby-source-filesystem`,
       options: {

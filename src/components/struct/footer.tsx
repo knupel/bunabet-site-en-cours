@@ -11,7 +11,7 @@ import { useStaticQuery, graphql } from "gatsby";
 // APP
 import { Legal, InfoFooter } from "../menu/menu_footer";
 import { get_css_value } from "../../utils/tools";
-import { ButtonPictoNav } from "../hc";
+import { ButtonNav, ButtonPictoNav } from "../hc";
 // MEDIA
 // import picto_instagram from 
 import picto_instagram from "../../../medias/picto/instagram_jaune.svg";
@@ -54,6 +54,12 @@ export function Footer() {
 	return <div className="footer" style={style_footer}>
 		<InfoFooter style={style_cell}>{data.site.siteMetadata.title} {year}</InfoFooter>
 
+		<InfoFooter style={style_cell}>|</InfoFooter>
+		
+		<ButtonNav
+			what="Café 366"
+			href="https://cafe-366.myshopify.com"
+    />
 		<InfoFooter style={style_cell}>|</InfoFooter>
 		<ButtonPictoNav
 			src={picto_instagram}

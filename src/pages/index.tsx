@@ -29,11 +29,11 @@ import { Layout } from "../components/hc.tsx";
 
 const IndexPage: FC<PageProps> = () => {
   return (
-    <Layout menu_is={false}>
-      {/* <RenderHome/> */}
+    <Layout menu_is={true}>
+      <RenderHome/>
       {/* <RenderIntro/>
       <RenderOpening/> */}
-      <RenderTemp/>
+      {/* <RenderTemp/> */}
     </Layout>
   )
 }

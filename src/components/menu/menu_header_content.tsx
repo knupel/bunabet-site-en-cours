@@ -94,6 +94,7 @@ export const MenuHeaderContent: FC<Props> =({className_box, style_box, className
 		{in_line !== false ? <NavCellBoxImg to="/" img={img} alt="Home" style_box={box} style_cell={cell}/> : <></>}
 		{/* {in_line !== false ? <NavCellBoxImg src="./../../medias/home_dark.png" alt="Home" style_box={box} style_cell={cell}/> : <></>} */}
 		{/* {in_line !== false ? <GoHome className_box={"home_box"} style_box={box} style_cell={cell}/> : <></>} */}
+		<NavCellBox to="/coffee" style_box={box} style_cell={cell}>{tree[lang].coffee}</NavCellBox>
 		<NavCellBox to="/about" style_box={box} style_cell={cell}>{tree[lang].about}</NavCellBox>
 		<NavCellBox to="/contact" style_box={box} style_cell={cell}>{tree[lang].contact}</NavCellBox>
 		<DropdowRegions style_box={box} style_cell={cell} offset={(height_header) * 0.5 + "px"} 

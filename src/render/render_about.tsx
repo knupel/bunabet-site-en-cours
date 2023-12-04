@@ -62,6 +62,7 @@ export const RenderAbout: FC<Props> =() => {
   // console.log("info", info);
 
   return <>
+    <h1>{info.title}</h1>
     <h2 style={headingStyles}>{info.subtitle}</h2>
     <p style={paragraphStyles}>
       <MarkdownHtml html={html} />

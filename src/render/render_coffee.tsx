@@ -1,7 +1,7 @@
 /**
- * Render Home
+ * Render Coffee
  * 2023-2023
- * v 0.1.0
+ * v 0.0.1
  * 
  * */
 
@@ -13,31 +13,30 @@ import { useStaticQuery, graphql } from "gatsby";
 
 // APP
 import { useNode } from "../utils/hu.tsx";
-import { ButtonNav } from "../components/hc.tsx";
+import { MarkdownHtml } from "../components/hc.tsx";
 import { RegionContext } from "./../context";
-
-
-import { RenderOpening, RenderIntro } from "../render/hr.tsx";
 
 // need to define properly the any... it's very too much and very lazy !
 interface Props {
   // data? : any;
 }
 
-export const RenderHome: FC<Props> =() => {
+
+export const RenderCoffee: FC<Props> =() => {
   const data = useStaticQuery(
     graphql`
       query {
-        allMarkdownRemark(filter: {frontmatter: {categorie: {eq: "home"}}}) {
+        allMarkdownRemark(filter: {frontmatter: {categorie: {eq: "coffee"}}}) {
           edges {
             node {
               frontmatter {
+                categorie
                 title
                 subtitle
-                message
-                misc
+                menu
                 lang
               }
+              html
             }
           }
         }
@@ -45,14 +44,13 @@ export const RenderHome: FC<Props> =() => {
     `
   )
   const { lang } = useContext(RegionContext);
-  const {frontmatter} = useNode(data, lang);
+  // console.log("lang", lang);
+  const {frontmatter, html} = useNode(data, lang);
   const info = frontmatter;
 
+
   return <>
-      <RenderIntro/>
-      <p>
-        <ButtonNav what={info.misc} href="https://cafe-366.myshopify.com"/>
-      </p>
-      <RenderOpening/>
+    <h1>{info.title}</h1>
+    <MarkdownHtml html={html} />
   </>
 }
