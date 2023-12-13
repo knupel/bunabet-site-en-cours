@@ -37,7 +37,6 @@ export const RenderTemp: FC<Props> = () => {
   const info = frontmatter;
   return <>
     <LogoBunabet style={{paddingTop: '1em'}}/>
-
     <RenderIntro/>
     <p>
       <ButtonNav what={info.misc} href="https://cafe-366.myshopify.com"/>

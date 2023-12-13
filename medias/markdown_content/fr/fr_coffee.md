@@ -173,7 +173,7 @@ Floral. Notes de jasmin.
 
 
 
-## >> LA ISABELLA <<
+## >> LA ISABELA <<
 ### CARACTÉRISTIQUES
 **Terroir :** 
 Nicaragua / San Rafael del Norte

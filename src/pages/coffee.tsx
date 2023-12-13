@@ -18,7 +18,7 @@ interface Props {
   data: any;
 }
 
-const About: FC<PageProps> = ({data}) => {
+const Coffee: FC<PageProps> = ({data}) => {
   return (
     <Layout>
       <RenderCoffee/>
@@ -26,7 +26,7 @@ const About: FC<PageProps> = ({data}) => {
   )
 }
 
-export default About;
+export default Coffee;
 
 export const Head: HeadFC = ({data}) => <SeoTitle title={data.allMarkdownRemark.edges[0].node.frontmatter.title}/>
 
