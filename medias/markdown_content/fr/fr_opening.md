@@ -7,23 +7,14 @@ message: ""
 misc: ""
 lang: "fr"
 ---
-### Ouvertures des fêtes de fin d'année !!!
 
-Dimanche 17 décembre  : 9h-17h
+### Horaires un peu spéciaux...
 
-Dimanche 24 décembre  : 9h-17h
+Vendredi 26 janvier : 8h30 – 18h
 
-### Fermetures des fêtes de fin d'année !!!
+Samedi 27 janvier : 9h – 17h
 
-Mardi 26 décembre : fermé
-
-Mercredi 27 décembre : fermé
-
-Dimanche 31 décembre : fermé 
-
-Mardi 2 janvier : fermé
-
-Mercredi 3 janvier : fermé
+Dimanche 28 janvier : fermé
 
 ### Horaires d'ouverture classique
 

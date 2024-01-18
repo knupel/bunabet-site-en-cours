@@ -7,23 +7,15 @@ message: ""
 misc: ""
 lang: "en"
 ---
-### Christmas opening !!!
 
-Sunday December 17th: 9am-5pm
 
-Sunday december 24th: 9am-5pm
+### Special closing !!!
 
-### Festive season closing !!!
+Friday December 26th: 8:30 am – 6 pm
 
-Tuesday December 26th: closed
+Saturday January 27th: 9 am – 5 pm
 
-Wednesday December 27th: closed
-
-Sunday December 31st: closed 
-
-Tuesday January 2nd: closed
-
-Wednesday January 3rd: closed
+Sunday January 28th: closed
 
 ### Openning hours
 
