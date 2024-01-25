@@ -10,7 +10,7 @@ lang: "fr"
 
 ### Horaires un peu spéciaux...
 
-Vendredi 26 janvier : 8h30 – 18h
+Vendredi 26 janvier : 8h30 – 17h
 
 Samedi 27 janvier : 9h – 17h
 

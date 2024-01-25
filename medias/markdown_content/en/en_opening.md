@@ -11,7 +11,7 @@ lang: "en"
 
 ### Special closing !!!
 
-Friday December 26th: 8:30 am – 6 pm
+Friday December 26th: 8:30 am – 5 pm
 
 Saturday January 27th: 9 am – 5 pm
 
