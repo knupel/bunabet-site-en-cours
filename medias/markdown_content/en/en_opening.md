@@ -8,15 +8,6 @@ misc: ""
 lang: "en"
 ---
 
-
-### Special closing !!!
-
-Friday December 26th: 8:30 am – 5 pm
-
-Saturday January 27th: 9 am – 5 pm
-
-Sunday January 28th: closed
-
 ### Openning hours
 
 Monday closed
@@ -31,7 +22,7 @@ Friday 8:30 am – 7 pm
 
 Samedi 9 am – 7 pm
 
-Sunday 9 am – 1 pm
+Sunday 9 am – 1:30 pm
 
 Public holidays open depending on affinity...
 
