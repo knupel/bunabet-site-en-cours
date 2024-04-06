@@ -71,7 +71,7 @@ Gourmand. Notes de chocolat et de fruits à coque.
 ## >> COFFCAK <<
 ### CARACTÉRISTIQUES  
 **Terroir :** 
-Arabica Catimor, Caturra et Typica
+Indonésie / Sumatra Aceh
 
 **Variété :**
 Arabica Marsellesa, Catuai et Catimor

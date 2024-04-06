@@ -64,7 +64,7 @@ export function Footer() {
 		<ButtonPictoNav
 			src={picto_instagram}
 			what="instagram"
-			href="https://www.instagram.com/cafe366/"
+			href="https://www.instagram.com/buna_bet_paris/"
     />
 		<InfoFooter style={style_cell}>|</InfoFooter>
 		<Legal/>
