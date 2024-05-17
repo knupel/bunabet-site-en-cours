@@ -73,7 +73,14 @@ body {
 	color:var(--color_text_title);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
+	font-family: var(--font_title);
+	font-style: normal;
+	color:var(--color_text_title);
+	font-weight: 400;
+}
+
+h4, h5, h6 {
 	font-family: var(--font_title);
 	font-style: normal;
 	color:var(--color_text_title);
@@ -82,17 +89,14 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
 	font-size: 3em;
-	font-weight: 400;
 }
 
 h2 {
 	font-size: 2.1em;
-	font-weight: 400;
 }
 
 h3 {
 	font-size: 1.4em;
-	font-weight: 400;
 }
 
 h4, h5, h6 {

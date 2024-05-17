@@ -1,7 +1,7 @@
 /**
  * Render Contact
- * 2023-2023
- * v 0.0.1
+ * 2023-2024
+ * v 0.0.2
  * 
  * */
 
@@ -16,20 +16,14 @@ import { useNode } from "../utils/hu.tsx";
 import { MarkdownHtml, LogoBunabet } from "../components/hc.tsx";
 import { RegionContext } from "../context.tsx";
 
-// need to define properly the any... it's very too much and very lazy !
+
+const title_style = {
+  marginTop: 8,
+  marginBottom: 2,
+}
+
 interface Props {
   // data? : any;
-}
-
-
-const headingStyles = {
-  marginTop: 0,
-  marginBottom: 42,
-  maxWidth: 600,
-}
-
-const paragraphStyles = {
-  marginBottom: 48,
 }
 
 export const RenderIntro: FC<Props> =() => {
@@ -41,6 +35,8 @@ export const RenderIntro: FC<Props> =() => {
             node {
               frontmatter {
                 categorie
+                title
+                message
                 lang
               }
               html
@@ -51,11 +47,13 @@ export const RenderIntro: FC<Props> =() => {
     `
   )
   const { lang } = useContext(RegionContext);
-  const { html } = useNode(data, lang);
+  const {frontmatter, html} = useNode(data, lang);
+  const info = frontmatter;
+  // const content = html;
 
   return <>
-    <p style={paragraphStyles}>
-      <MarkdownHtml html={html} />
-    </p>
+    <h2 style={title_style}> {info.title}</h2>
+    <h4 style={title_style}>{info.message}</h4>
+    {/*<p> <MarkdownHtml html={content} /> </p>*/}
   </>
 }

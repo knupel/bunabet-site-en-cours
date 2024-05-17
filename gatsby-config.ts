@@ -6,7 +6,7 @@ import type { GatsbyConfig } from "gatsby"
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `buna bet`,
-    version: `0.0.1`,
+    version: `0.0.2`,
     siteUrl: `https://www.bunabet.fr`,
     author: `Stanislas Marçais`,
     google: `nostranslate`,
@@ -21,7 +21,7 @@ const config: GatsbyConfig = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: "BUNA BET",
-        short_name: "bunabet",
+        short_name: "buna bet",
         start_url: "/",
         icon: "medias/icon.png", // This path is relative to the root of the site.
         crossOrigin: `use-credentials`,

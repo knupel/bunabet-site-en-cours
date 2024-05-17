@@ -4,7 +4,7 @@ title: "Équipe"
 subtitle: ""
 categorie : "team"
 message: ""
-misc: ""
+misc_a: ""
 lang: "fr"
 ---
 # L'équipe

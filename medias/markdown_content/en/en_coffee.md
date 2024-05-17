@@ -4,7 +4,7 @@ title: "Our coffees"
 subtitle: ""
 categorie : "coffee"
 message: ""
-misc: ""
+misc_a: ""
 lang: "en"
 ---
 

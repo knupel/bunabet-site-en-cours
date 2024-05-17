@@ -4,7 +4,9 @@ title: "BUNA BET"
 subtitle: "Maison de café et boutique"
 categorie: "home"
 message: "Ouverture début septembre 2023 | 102, rue de Meaux Paris 19 | Métro Laumière"
-misc: "Pour commander suivez le lien vers le site Café 366"
+misc_a: "Écouter Le Son de Buna Bet"
+misc_b: "Commander des paquets de café 366"
+misc_c: "Café 366, c'est aussi un tour du monde en 366 jours"
 lang: "fr"
 ---
 # Lorem Ipsum

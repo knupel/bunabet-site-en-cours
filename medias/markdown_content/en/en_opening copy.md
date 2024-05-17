@@ -4,7 +4,7 @@ title: "BUNA BET"
 subtitle: "Coffee house & Shop"
 categorie: "opening"
 message: ""
-misc: ""
+misc_a: ""
 lang: "en"
 ---
 

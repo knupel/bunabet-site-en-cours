@@ -22,7 +22,7 @@ export const RenderTemp: FC<Props> = () => {
           edges {
             node {
               frontmatter {
-                misc
+                misc_a
                 lang
               }
             }
@@ -39,7 +39,7 @@ export const RenderTemp: FC<Props> = () => {
     <LogoBunabet style={{paddingTop: '1em'}}/>
     <RenderIntro/>
     <p>
-      <ButtonNav what={info.misc} href="https://cafe-366.myshopify.com"/>
+      <ButtonNav what={info.misc_a} href="https://cafe-366.myshopify.com"/>
     </p>
     <RenderOpening/>
 

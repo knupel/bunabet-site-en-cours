@@ -35,7 +35,9 @@ export const RenderHome: FC<Props> =() => {
                 title
                 subtitle
                 message
-                misc
+                misc_a
+                misc_b
+                misc_c
                 lang
               }
             }
@@ -51,7 +53,13 @@ export const RenderHome: FC<Props> =() => {
   return <>
       <RenderIntro/>
       <p>
-        <ButtonNav what={info.misc} href="https://cafe-366.myshopify.com"/>
+        <ButtonNav what={info.misc_a} href="https://www.deezer.com/fr/profile/5303082/playlists"/>
+      </p>
+      <p>
+        <ButtonNav what={info.misc_b} href="https://cafe-366.myshopify.com"/>
+      </p>
+      <p>
+        <ButtonNav what={info.misc_c} href="http://www.tourdumondeducafe.com"/>
       </p>
       <RenderOpening/>
   </>

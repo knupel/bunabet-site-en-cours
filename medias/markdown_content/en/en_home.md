@@ -4,7 +4,9 @@ title: "BUNA BET"
 subtitle: "SHOP and COFEE-SHOP"
 categorie: "home"
 message: "Welcome home to drink a good coffee. And if drink a good coffee is good for you. It's good for us"
-misc: "Follow the link to order your coffee on Café 366 web site"
+misc_a: "Listen the Buna Bet Sound"
+misc_b: "0rder your coffee pack Café 366"
+misc_c: "Café 366, It's also a 366-day trip around the world"
 lang: "en"
 ---
 # Lorem Ipsum

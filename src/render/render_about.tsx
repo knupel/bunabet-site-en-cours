@@ -44,7 +44,7 @@ export const RenderAbout: FC<Props> =() => {
                 title
                 subtitle
                 message
-                misc
+                misc_a
                 menu
                 lang
               }

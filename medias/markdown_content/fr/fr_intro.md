@@ -1,12 +1,12 @@
 ---
 menu: "introduction"
-title: "BUNA BET"
+title: "TORRÉFACTION ARTISANALE DE CAFÉS DE TERROIR"
 subtitle: "Maison de café et boutique"
 categorie: "intro"
-message: ""
-misc: ""
+message: "Boutique et Coffee-Shop – 102, rue de Meaux – 75019 Paris – Métro Laumière"
+misc_a: ""
 lang: "fr"
 ---
-# TORRÉFACTION ARTISANALE DE CAFÉS DE TERROIR
+<!-- # TORRÉFACTION ARTISANALE DE CAFÉS DE TERROIR
 
-## Boutique et Coffee-Shop – 102, rue de Meaux – 75019 Paris – Métro Laumière
+## Boutique et Coffee-Shop – 102, rue de Meaux – 75019 Paris – Métro Laumière -->

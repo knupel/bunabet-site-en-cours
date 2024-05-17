@@ -52,7 +52,7 @@ export const RenderOpening: FC<Props> =() => {
           edges {
             node {
               frontmatter {
-                misc
+                misc_a
                 lang
               }
               html

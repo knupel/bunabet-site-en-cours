@@ -4,7 +4,7 @@ title: "BUNA BET"
 subtitle: "Maison de café et boutique"
 categorie: "opening"
 message: ""
-misc: ""
+misc_a: ""
 lang: "fr"
 ---
 ### Horaires hors du commun !!!

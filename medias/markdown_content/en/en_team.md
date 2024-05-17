@@ -4,7 +4,7 @@ title: "Meet Our Team"
 subtitle: ""
 categorie : "team"
 message: ""
-misc: ""
+misc_a: ""
 lang: "en"
 ---
 # Our Team

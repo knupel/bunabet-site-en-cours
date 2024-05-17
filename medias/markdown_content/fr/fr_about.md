@@ -4,7 +4,7 @@ title: "À propos"
 subtitle: ""
 categorie : "about"
 message: ""
-misc: ""
+misc_a: ""
 lang: "fr"
 ---
 ### Pourquoi Buna Bet ?

@@ -1,12 +1,12 @@
 ---
 menu: "introduction"
-title: "BUNA BET"
+title: "ARTISANAL ROASTING OF SPECIALTY COFFEES"
 subtitle: "House of coffee and shop"
 categorie: "intro"
-message: ""
-misc: ""
+message: "Coffee-Shop and store  – 102, de Meaux Street – 75019 Paris – Laumière  metro station"
+misc_a: ""
 lang: "en"
 ---
-# ARTISANAL ROASTING OF SPECIALTY COFFEES
+<!-- # ARTISANAL ROASTING OF SPECIALTY COFFEES
 
-## Coffee-Shop and store  – 102, de Meaux Street – 75019 Paris – Laumière  metro station
+## Coffee-Shop and store  – 102, de Meaux Street – 75019 Paris – Laumière  metro station -->

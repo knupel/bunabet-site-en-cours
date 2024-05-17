@@ -75,7 +75,10 @@ export const ButtonPictoNav : FC<ButtonPictoProps> = ({ src, what, href }) => {
 export const ButtonNav : FC<ButtonProps> = ({what, to, href}) => {
   let button_style = {
     color: get_css_value("--color_text_light"),
-    padding: 4,
+    paddingLeft: 4,
+    paddingRight: 4,
+    paddingTop: 1,
+    paddingBottom: 2,
     background: get_css_value("--color_button"),
     borderRadius: 4,
     fontSize: "1.5rem",

@@ -4,25 +4,25 @@ title: "BUNA BET"
 subtitle: "Maison de café et boutique"
 categorie: "opening"
 message: ""
-misc: ""
+misc_a: ""
 lang: "fr"
 ---
 
 ### Horaires d'ouverture classique
 
-Lundi fermé
+Lundi zut c'est fermé
 
-Mardi 8h30 – 19h
+Mardi 8h25 – 19h05
 
-Mercredi 8h30 – 19h
+Mercredi 8h27 – 19h03
 
-Jeudi 8h30 – 19h
+Jeudi 8h29 – 19h01
 
-Vendredi 8h30 – 19h
+Vendredi 8h31 – 18h59
 
-Samedi 9h – 19h
+Samedi 9h03 – 18h57
 
-Dimanche 9h – 13h30
+Dimanche 9h05 – 13h25
 
 Jours fériés ouvert selon affinité...
 
