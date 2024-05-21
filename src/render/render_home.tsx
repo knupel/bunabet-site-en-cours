@@ -17,7 +17,7 @@ import { ButtonNav } from "../components/hc.tsx";
 import { RegionContext } from "./../context";
 
 
-import { RenderOpening, RenderIntro } from "../render/hr.tsx";
+import { RenderOpening, RenderOpeningX, RenderIntro } from "../render/hr.tsx";
 
 // need to define properly the any... it's very too much and very lazy !
 interface Props {
@@ -61,6 +61,7 @@ export const RenderHome: FC<Props> =() => {
       <p>
         <ButtonNav what={info.misc_c} href="http://www.tourdumondeducafe.com"/>
       </p>
+      {/* <RenderOpeningX/> */}
       <RenderOpening/>
   </>
 }

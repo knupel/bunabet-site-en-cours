@@ -15,6 +15,7 @@ export { RenderTeam } from "./render_team.tsx";
 export { RenderContact } from "./render_contact.tsx";
 
 export { RenderOpening } from "./render_opening.tsx";
+export { RenderOpeningX } from "./render_opening_x.tsx";
 
 export { RenderPage } from "./render_page.tsx";
 export { RenderTemp } from "./render_temp.tsx";
