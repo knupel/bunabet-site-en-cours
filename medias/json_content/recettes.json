@@ -1,0 +1,61 @@
+{
+	"recipes": "recettes",
+	"company": "Buna Bet",
+	"year": 2024,
+	"drink": [
+		{
+			"name": "Allongé",
+			"type": "café",
+			"content": "verre",
+			"size": "M",
+			"quantity": [30, "grammes"],
+			"ingredient": ["simple espresso", "eau chaude"],
+			"process": "servir l'espresso dans un verre ou tasse de taille moyenne, mettre à disposition à côté un petit pichet d'eau chaude",
+		}
+	]
+}
+Type de boisson	S	L	MUG	S	M	L	XL	volume	recette
+
+Allongé					M			30g ++	1 espresso + pichet  eau chaude
+Americano						L		30g ++	Eau chaude + 1 espresso. Demander au client la quantité d'eau
+Ristretto	S			S				15g	1/2 espresso
+Espresso	S			S				30g	1 espresso
+Double ristretto					M			30g	2 ristretos 
+Double Espresso					M			60g	2 espressos
+V60 - Chemex petit								350 ml	21 g
+V60 - Chemex grand								600 ml	36 g
+									
+Affogato		L							1 boule de glace + 1 espresso
+Breve		L							1 espresso + créme + mousse
+Cappuccino		L							1 espresso + lait chaud + beaucoup de mousse + option cacao poudre
+crème		L							1 expresso + lait chaud sans mousse. Demander au client la quantité de lait
+Cortado					M				2 espressos + peu de lait chaud + mousse
+Flat white						L			2 espressos + lait chaud + peu de mousse
+Latte		L							1 espresso + lait chaud + mousse
+Macchiato	S			S					1 espresso + lait chaud + mousse
+Mocha		L							Cacao + 1 espresso + lait chaud + mousse
+Miclon						L			Lait chaud + mousse + 2 espressos  Faire chauffer et mousser le lait, puis couler le double dessus
+Noisette	S			S					1 espresso + lait chaud. Demander au client la quantité de lait
+Piccolo					M				1 espresso +  lait chaud + mousse
+Spumato	S			S					1 espresso + mousse de lait
+Viennois / Einspänner		L							1 espresso  + crème chantilly + cacao poudre
+									
+Chaï Marta			MUG						Chai poudre 2 cuillère + eau chaude + lait chaud + mousse Dose de chai ajouter un peu d'eau chaude faire une pâte, ajouter le lait et faire chauffer le mélange.
+Chaï Main Noire			MUG						Chai liquide 50g + eau chaude + lait Dose de chai, ajouter le lait et faire chauffer le mélange.
+Chaï Main Noire			MUG						Chai pâte 15 g + eau chaude + lait Dose de chai, ajouter l'eau chaude laisser infuser 2/3 minutes, filtrer, puis ajouter le lait et faire chauffer le mélange.
+Chocolat Chaud			MUG						Cacao + eau chaude + lait chaud Deux cuillère à soude de cacao, faire une pâte avec un peu d'eau chaude. A jouter le lait et faire mousser ou version barista comme pour les lattes faire un beau dessin !
+Infusion		L	MUG						Ingrédient + eau chaude 92° - environ 4 minutes d’infusion
+Matcha		L							Poudre matcha + eau froid  puis  eau chaude Une dose de matcha, faire une pête à leau froide, puis faire mousser avec le fouet et un peu d'eau chaude, servir dans la tasse et rallonger délicatement à l'eau chaude
+Matcha Latte		L	MUG						poudre matcha +  eau froid  puis  lait chaud moussé Une dose de matcha, faire une pête à leau froide, puis faire mousser avec le fouet et un peu d'eau chaude, servir dans la tasse et rallonger délicatement avec le lait chaud moussé
+Thé		L	MUG						
+									
+Americano glacé						L			Glacons + eau froide + 1 espresso  Demander au client la quantité d'eau
+Cold Brew						L			Glacons + 2/3 cold brew + 1/3 eau > demander au client la quantité d'eau
+Espresso tonic						L			Glaçons + tonic + 1 espresso + quelques gouttes d’Angustura. Mettre les glaçon, verser le tonic, couler l'espresso puis quelques gouttes d'Angoustura
+Flat white glacé						L			Glaçons + lait froid + 2 espressos. Mélanger le lait et glaçon shaker léger pour faire mousser, puis couler le café dessus
+Latte glacé 						L			Glaçons + lait froid + 1 espresso. Mélanger le lait et glaçon shaker léger pour faire mousser, puis couler le café dessus
+Matcha glacé						L			Glaçons + ( poudre matcha + eau froide + moussé à l'eau chaude ) Mélanger le lait et glaçon shaker léger pour faire mousser, puis couler le matcha dessus
+									
+Flat white frappé						L			Glaçons + lait froid + 2 espressos. Mélanger glaçon, lait froid et café, bien agiter pour casser les glaçons
+Latte  frappé						L			Glaçons + lait froid + 1 espresso. Mélanger glaçon, lait froid et café, bien agiter pour casser les glaçons
+Matcha frappé						L			Glaçons +  ( poudre matcha + eau froide + moussé à l'eau chaude )  Mélanger glaçon, lait froid et matcha préparé avant, bien agiter pour casser les glaçons
