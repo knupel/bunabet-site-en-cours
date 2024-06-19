@@ -7,6 +7,9 @@ message: ""
 misc_a: ""
 lang: "fr"
 ---
+### Horaires hors du commun !!!
+
+Dimanche 30 juin : Fermé donc pas de croissant !!!
 
 ### Horaires d'ouverture classique
 
