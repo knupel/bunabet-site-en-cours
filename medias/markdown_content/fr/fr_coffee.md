@@ -35,32 +35,39 @@ Notes d'abricot et de noix.
 **Puissance :** 4/5
 
 
-## >> CHIMALI <<
+
+
+
+## >> BOMBÉ <<
 ### CARACTÉRISTIQUES
+**Micro-Lot** 
+
 **Terroir :** 
-Guatemala / Huehuetenango
+Éthiopie / Sidama
 
 **Variété :**
-Arabica Bourbon rouge, Catuairouge, Pache, Typica
+Arabica Heirloom
 
 **Altitude :** 
-1600m
+1950m
 
 **Processus :** 
 Récolté à la main, lavé, séché au soleil.
 
-**Label :**
-bio
 
 ### POUR LA PETITE HISTOIRE
-En langue nahuatl Chimali signifie bouclier. Cette communauté est composée d'environ 18 membres producteurs de café de la coopérative COPECAFE et est située dans la municipalité de Santiago Chimaltenango, qui se trouve au nord-ouest du département de Huehuetenango.
+Ce micro lot de café de forêt, lavé et préparé par DWD en appellation Sidama, offre toute la saveur des beaux cafés de cette région. La station Wax General Trading se trouve dans le village de Bombé, dans la zone Sidama. C'est ici, à 1950 mètres d'altitude, que DWD collecte et traite le café des producteurs voisins. La culture du café est ancienne dans cette région et intégrée à un système de polyculture qui permet aux paysans de diversifier leurs revenus et assurer la récolte de cultures vivrières.
 
 ### EN TASSE
 **Notes aromatiques :**
-Gourmand. Notes de chocolat et de fruits à coque.
+Fruité : bergamotte, citron
 
-**Rondeur :** 3/5
-**Acidité :** 2/5
+Floral : Camomille
+
+Gourmand : sucre vanillé, sucre cuit, caramel
+
+**Rondeur :** 2/5
+**Acidité :** 4/5
 **Puissance :** 3/5
 
 
@@ -135,7 +142,7 @@ Complexe, notes de fruits rouges, de vanille et d'amande.
 ## >> EL SAUCE <<
 ### CARACTÉRISTIQUES
 
-**Micro-Lot :** 
+**Micro-Lot** 
 
 **Terroir :** 
 Colombie / Nariño La Union

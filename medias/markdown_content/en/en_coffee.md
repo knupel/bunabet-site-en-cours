@@ -36,32 +36,34 @@ Notes of apricot and walnut.
 
 
 
-## >> CHIMALI <<
+## >> BOMBÉ <<
 ### FEATURES
+**Micro-Batch**
 **Terroir:** 
-Guatemala / Huehuetenango
+Ethiopia / Sidama
 
 **Variety:**
-Arabica Bourbon rouge, Catuairouge, Pache, Typica
+Arabica Heirloom
 
 **Altitude:** 
-1600m
+1950m
 
 **Process:** 
 Hand-harvested, washed and sun-dried.
 
-**Label:**
-bio
-
 ### FOR THE STORY
-In the Nahuatl language, Chimali means shield. This community is made up of around 18 coffee-producing members of the COPECAFE cooperative and is located in the municipality of Santiago Chimaltenango, in the north-west of the department of Huehuetenango.
+This micro-batch of forest coffee, washed and prepared by DWD in the Sidama appellation, offers all the flavour of the fine coffees from this region. The Wax General Trading station is located in the village of Bombe, in the Sidama area. It is here, at an altitude of 1950 metres, that DWD collects and processes coffee from neighbouring producers. Coffee has long been grown in this region and is part of a mixed farming system that enables farmers to diversify their income and ensure the harvest of food crops.
 
 ### IN CUP
 **Aromatic notes:**
-Delicious. Notes of chocolate and nuts.
+Fruity: bergamot, lemon
 
-**Roundness:** 3/5
-**Acidity:** 2/5
+Floral: chamomile
+
+Delicious: vanilla sugar, baked sugar, caramel
+
+**Roundness:** 2/5
+**Acidity:** 4/5
 **Strength:** 3/5
 
 
@@ -101,7 +103,7 @@ Gourmet. Dark chocolate and cane sugar.
 ## >> EL SAUCE <<
 ### CARACTÉRISTIQUES
 
-**Micro-Batch :** 
+**Micro-Batch** 
 
 **Terroir:** 
 Colombia / Nariño La Union
@@ -141,10 +143,10 @@ Fruity and smooth notes of red plum.
 **Terroir:**
 Colombie / Tolima
 
-**Ferme:**
+**Farm:**
 Finca El Placer
 
-**Producteur:**
+**Producer:**
 Rafael Valenzuela Tangarife
 
 **Variety:**
