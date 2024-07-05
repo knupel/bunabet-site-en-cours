@@ -8,35 +8,7 @@ misc_a: ""
 lang: "en"
 ---
 
-## >> BAKUAE <<
-### FEATURES
-**Terroir:** 
-Kenya / Bungoma
-
-**Variety:**
-Arabica Batian, Ruiru 11, SL 28 et SL 34
-
-**Altitude:** 
-1300 / 1500m
-
-**Process:** 
-Hand-harvested, washed and sun-dried.
-
-
-### FOR THE STORY
-The Bungoma coffee-growing region has an estimated population of 1.6 million and covers an area of 2,207 km2. It comprises 3 coffee-growing districts that cultivate more than 6,413 hectares of Arabica coffee of the SL28, SL34 and Batian varieties in the country.
-
-### IN CUP
-**Aromatic notes:**
-Notes of apricot and walnut.
-
-**Roundness:** 3/5
-**Acidity:** 2/5
-**Strength:** 4/5
-
-
-
-## >> BOMBÉ <<
+## >> BOMBE <<
 ### FEATURES
 **Micro-Batch**
 **Terroir:** 
@@ -67,9 +39,7 @@ Delicious: vanilla sugar, baked sugar, caramel
 **Strength:** 3/5
 
 
-
-
-
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
 ## >> COFFCAK <<
 ### FEATURES
 **Terroir:** 
@@ -99,7 +69,7 @@ Gourmet. Dark chocolate and cane sugar.
 **Strength:** 3/5
 
 
-
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
 ## >> EL SAUCE <<
 ### CARACTÉRISTIQUES
 
@@ -137,7 +107,7 @@ Fruity and smooth notes of red plum.
 
 
 
-
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
 ## >> EL PLACER <<
 ### FEATURES
 **Terroir:**
@@ -169,11 +139,12 @@ Complex, with notes of red fruit, vanilla and almond.
 **Acidity:** 4/5
 **Strength:** 3/5
 
+### BUY
+<a href="https://cafe366.com/products/colombie-finca-el-placer" target="_blank">Order packs of El Placer</a>
 
 
 
-
-
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
 ## >> LA ISABELA <<
 ### FEATURES
 **Terroir:** 
@@ -203,9 +174,12 @@ Notes of dark chocolate with a sour finish.
 **Acidity:** 2/5
 **Strength:** 3/5
 
+### BUY
+<a href="https://cafe366.com/collections/nos-cafes/products/nicaragua-la-isabela-bio" target="_blank">Order packs of La Isabela</a>
 
 
 
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
 ## >> PICHANAKI <<
 ### FEATURES  
 **Terroir:** 
@@ -236,7 +210,7 @@ Gourmet. Dark chocolate, caramel and citrus fruit.
 
 
 
-
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
 ## >> SAN RAFAEL <<
 ### FEATURES
 **Terroir:** 
@@ -263,3 +237,6 @@ Delicious. Notes of chocolate and roasted hazelnuts.
 **Roundness:** 4/5
 **Acidity:** 0/5
 **Strength:** 3/5
+
+### BUY
+<a href="https://cafe366.com/collections/nos-cafes/products/bresil-san-rafael" target="_blank">Order packs of San Rafael</a>

@@ -8,37 +8,8 @@ misc_a: ""
 lang: "fr"
 ---
 
-## >> BAKUAE <<
-### CARACTÉRISTIQUES
-**Terroir :** 
-Kenya / Bungoma
 
-**Variété :**
-Arabica Batian, Ruiru 11, SL 28 et SL 34
-
-**Altitude :** 
-1300 / 1500m
-
-**Processus :** 
-Récolté à la main, lavé, séché au soleil.
-
-
-### POUR LA PETITE HISTOIRE
-La région caféière de Bungoma a une population estimée à 1,6 million d’habitants et couvre une superficie de 2 207 km2. Elle compte 3 districts caféicoles qui cultivent plus de 6 413 hectares de café Arabica des variétés SL28, SL34 et Batian, Bungoma est la dixième région productrice de café du pays.
-
-### EN TASSE
-**Notes aromatiques :**
-Notes d'abricot et de noix.
-
-**Rondeur :** 3/5
-**Acidité :** 2/5
-**Puissance :** 4/5
-
-
-
-
-
-## >> BOMBÉ <<
+## <<< BOMBE >>>
 ### CARACTÉRISTIQUES
 **Micro-Lot** 
 
@@ -70,12 +41,8 @@ Gourmand : sucre vanillé, sucre cuit, caramel
 **Acidité :** 4/5
 **Puissance :** 3/5
 
-
-
-
-
-
-## >> COFFCAK <<
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
+## <<< COFFCAK >>>
 ### CARACTÉRISTIQUES  
 **Terroir :** 
 Indonésie / Sumatra Aceh
@@ -103,8 +70,7 @@ Gourmand. Chocolat noir et de sucre de canne.
 **Acidité :** 1/5
 **Puissance :** 3/5
 
-
-
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
 ## >> EL PLACER <<
 ### CARACTÉRISTIQUES
 **Terroir :**
@@ -136,10 +102,12 @@ Complexe, notes de fruits rouges, de vanille et d'amande.
 **Acidité :** 4/5
 **Puissance :** 3/5
 
+### ACHETER
+<a href="https://cafe366.com/products/colombie-finca-el-placer" target="_blank">Commander des paquet de El Placer</a>
 
 
-
-## >> EL SAUCE <<
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
+## <<< EL SAUCE >>>
 ### CARACTÉRISTIQUES
 
 **Micro-Lot** 
@@ -171,11 +139,8 @@ Notes fruitées et suaves de prune rouge.
 **Acidité :** 1/5
 **Puissance :** 3/5
 
-
-
-
-
-## >> LA ISABELA <<
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
+## <<< LA ISABELA >>>
 ### CARACTÉRISTIQUES
 **Terroir :** 
 Nicaragua / San Rafael del Norte
@@ -204,9 +169,11 @@ Notes de chocolat noir avec une finale acidulée.
 **Acidité :** 2/5
 **Puissance :** 3/5
 
+### ACHETER
+<a href="https://cafe366.com/collections/nos-cafes/products/nicaragua-la-isabela-bio" target="_blank">Commander des paquets de La Isabela</a>
 
-
-## >> PICHANAKI <<
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
+## <<< PICHANAKI >>>
 ### CARACTÉRISTIQUES  
 **Terroir :** 
 Pérou / Junin
@@ -233,9 +200,8 @@ Gourmand. Chocolat noir, caramel et agrumes.
 **Acidité :** 2/5
 **Puissance :** 3/5
 
-
-
-## >> SAN RAFAEL <<
+## °^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°^°°^°^°^
+## <<< SAN RAFAEL >>>
 ### CARACTÉRISTIQUES
 **Terroir :** 
 Brésil / Cerrado Mineiro
@@ -261,6 +227,9 @@ Gourmand. Notes de chocolat et de noisettes grillées.
 **Rondeur :** 4/5
 **Acidité :** 0/5
 **Puissance :** 3/5
+
+### ACHETER
+<a href="https://cafe366.com/collections/nos-cafes/products/bresil-san-rafael" target="_blank">Commander des paquet de San Rafael</a>
 
 
 
