@@ -7,10 +7,6 @@ message: ""
 misc_a: ""
 lang: "en"
 ---
-### Extraordinary opening times!
-
-Sunday 30 June: Closed, so no croissants!
-
 ### Openning hours
 
 Monday Oh damn, it's closed
