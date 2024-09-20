@@ -11,17 +11,17 @@ lang: "en"
 
 Monday Oh damn, it's closed
 
-Tuesday 8:25 am – 7:05 pm
+Tuesday 7:58 am – 7:02 pm
 
-Wednesday 8:27 am – 7:03 pm
+Wednesday 7:59 am – 7:01 pm
 
-Thursday 8:29 am – 7:01 pm
+Thursday 8:00 am – 7:00 pm
 
-Friday 8:31 am – 6:59 pm
+Friday 8:01 am – 6:59 pm
 
-Samedi 9:03 am – 6:57 pm
+Samedi 9:02 am – 6:58 pm
 
-Sunday 9:05 am – 1:25 pm
+Sunday 9:03 am – 1:27 pm
 
 Public holidays open depending on affinity...
 

@@ -11,17 +11,17 @@ lang: "fr"
 
 Lundi zut c'est fermé
 
-Mardi 8h25 – 19h05
+Mardi 7h58 – 19h02
 
-Mercredi 8h27 – 19h03
+Mercredi 7h59 – 19h01
 
-Jeudi 8h29 – 19h01
+Jeudi 8h00 – 19h00
 
-Vendredi 8h31 – 18h59
+Vendredi 8h01 – 18h59
 
-Samedi 9h03 – 18h57
+Samedi 9h02 – 18h58
 
-Dimanche 9h05 – 13h25
+Dimanche 9h03 – 13h27
 
 Jours fériés ouvert selon affinité...
 
