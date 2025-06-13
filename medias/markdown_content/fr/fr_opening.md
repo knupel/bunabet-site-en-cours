@@ -7,18 +7,11 @@ message: ""
 misc_a: ""
 lang: "fr"
 ---
-### Horaires hors du commun !!!
-
-Jeudi 1er Mai - Fête du Travail : Fermé
-
-Jeudi 8 Mai - Victoire de 1945 : 9h00 – 18h00
-
-Jeudi 29 Mai - Ascension : 9h00 – 18h00
 
 
 ### Horaires d'ouverture classique
 
-Lundi zut c'est fermé
+Lundi 7h57 – 14h03
 
 Mardi 7h58 – 19h02
 

@@ -7,17 +7,9 @@ message: ""
 misc_a: ""
 lang: "en"
 ---
-### Extraordinary opening times!
-
-Thursday 1 May - Labour Day: closed
-
-Thursday 8 May - Victory in 1945: 9.00 - 18.00
-
-Thursday 29 May - Ascension Day: 9.00 - 18.00
-
 ### Openning hours
 
-Monday Oh damn, it's closed
+Monday 7:57 am – 2:03 pm
 
 Tuesday 7:58 am – 7:02 pm
 
