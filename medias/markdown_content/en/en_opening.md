@@ -7,6 +7,12 @@ message: ""
 misc_a: ""
 lang: "en"
 ---
+### Exceptional opening times due to the heatwave.
+
+Tuesday 1 July: 8am-2pm
+
+Wednesday 2 July: 8am-2pm
+
 ### Openning hours
 
 Monday 7:57 am – 2:03 pm

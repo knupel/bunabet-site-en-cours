@@ -7,8 +7,10 @@ message: ""
 misc_a: ""
 lang: "fr"
 ---
-### Horaires hors du commun !!!
+### Horaires exceptionnels en raison de la canicule.
 
-11 Novembre : 9h-19h
+Mardi 1er juillet : 8h-14h
+
+Mercredi 2 juillet : 8h-14h
 
 

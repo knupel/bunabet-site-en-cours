@@ -10,7 +10,12 @@ lang: "en"
 
 ### Extraordinary opening times!
 
-11 November: 9am-7pm
+
+### Exceptional opening times due to the heatwave.
+
+Tuesday 1 July: 8am-2pm
+
+Wednesday 2 July: 8am-2pm
 
 
 

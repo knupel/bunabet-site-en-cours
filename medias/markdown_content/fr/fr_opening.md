@@ -7,7 +7,11 @@ message: ""
 misc_a: ""
 lang: "fr"
 ---
+### Horaires exceptionnels en raison de la canicule.
 
+Mardi 1er juillet : 8h-14h
+
+Mercredi 2 juillet : 8h-14h
 
 ### Horaires d'ouverture classique
 
