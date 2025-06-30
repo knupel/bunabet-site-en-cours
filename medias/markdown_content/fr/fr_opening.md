@@ -7,7 +7,7 @@ message: ""
 misc_a: ""
 lang: "fr"
 ---
-### Horaires exceptionnels en raison de la canicule.
+### Horaires exceptionnels en raison de la canicule
 
 Mardi 1er juillet : 8h-14h
 

@@ -11,7 +11,7 @@ lang: "en"
 ### Extraordinary opening times!
 
 
-### Exceptional opening times due to the heatwave.
+### Exceptional opening times due to the heatwave
 
 Tuesday 1 July: 8am-2pm
 
