@@ -7,11 +7,10 @@ message: ""
 misc_a: ""
 lang: "fr"
 ---
-### Horaires exceptionnels en raison de la canicule
+### Horaire exceptionnel en raison de la fête nationale
 
-Mardi 1er juillet : 8h-14h
+Lundi 14 juillet : 9h-14h
 
-Mercredi 2 juillet : 8h-14h
 
 ### Horaires d'ouverture classique
 

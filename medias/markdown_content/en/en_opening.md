@@ -7,11 +7,10 @@ message: ""
 misc_a: ""
 lang: "en"
 ---
-### Exceptional opening times due to the heatwave
+### Special timetable to mark Bastille Day
 
-Tuesday 1 July: 8am-2pm
+Monday 14 July: 9am-2pm
 
-Wednesday 2 July: 8am-2pm
 
 ### Openning hours
 
