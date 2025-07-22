@@ -7,9 +7,9 @@ message: ""
 misc_a: ""
 lang: "fr"
 ---
-### Horaire exceptionnel en raison de la fête nationale
+### L'été,  les vacances, le sable chaud !
 
-Lundi 14 juillet : 9h-14h
+Nous serons fermés du 11 au 22 août inclus.
 
 
 ### Horaires d'ouverture classique

@@ -7,9 +7,9 @@ message: ""
 misc_a: ""
 lang: "en"
 ---
-### Special timetable to mark Bastille Day
+### Summer, holidays and hot sand!
 
-Monday 14 July: 9am-2pm
+We will be closed from 11 to 22 August inclusive.
 
 
 ### Openning hours
