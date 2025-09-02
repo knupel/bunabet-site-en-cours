@@ -7,26 +7,22 @@ message: ""
 misc_a: ""
 lang: "fr"
 ---
-### L'été,  les vacances, le sable chaud !
-
-Nous serons fermés du 11 au 22 août inclus.
-
 
 ### Horaires d'ouverture classique
 
-Lundi 7h57 – 14h03
+Lundi 7h56 – 14h04
 
-Mardi 7h58 – 19h02
+Mardi 7h57 – 19h03
 
-Mercredi 7h59 – 19h01
+Mercredi 7h58 – 19h02
 
-Jeudi 8h00 – 19h00
+Jeudi 7h59 – 19h01
 
-Vendredi 8h01 – 18h59
+Vendredi 8h00 – 19h00
 
-Samedi 9h02 – 18h58
+Samedi 9h01 – 18h59
 
-Dimanche 9h03 – 13h27
+Dimanche 9h02 – 13h58
 
 Jours fériés ouvert selon affinité...
 
